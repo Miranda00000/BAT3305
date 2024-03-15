@@ -8,7 +8,9 @@ The course description is
 # Projects
 
 ## KaggleHousingProject
-[/KaggleHousingProject](KaggleHousingProject)
+Code - [/KaggleHousingProject](KaggleHousingProject)
+
+Kaggle Project Home - https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
 ### Description
 Machine Learning Project where the goal is to predict the Sales Price of a house based on features of a house. Tasks include:
